@@ -1,6 +1,10 @@
 # Data Science Student at Western University
 
-### Education
-Bachelors of Science, Honours Specialization in Data Science
+#### Technical Skills: Python, R, Java, C
 
-### Work Experience
+## Education
+Bachelor of Science, Honours Specialization in Data Science | Western University (_2021 - Present_)
+
+## Projects
+
+## Work Experience
